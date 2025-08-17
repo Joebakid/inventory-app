@@ -4,7 +4,7 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'success frozen food',
+  title: 'success frozen foods',
   description: 'an inventory app',
   
 }
